@@ -45,7 +45,7 @@ import StringIO
 import colorsys
 
 import wxversion
-wxversion.select("2.8")
+wxversion.select("3.0")
 import wx
 import wx.richtext
 
